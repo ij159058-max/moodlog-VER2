@@ -1,0 +1,6 @@
+{
+  "name": "무드로그 (MoodLog)",
+  "description": "나만의 감성 기록 - 날씨, 기분, 오늘 들은 음악, 폴라로이드 사진과 함께하는 감성 일기장",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
